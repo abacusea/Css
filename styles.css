@@ -15,15 +15,17 @@ h1 {
   background-color: #c3e6fc;  
   position:relative;
   padding-top: 100px;
+  margin-bottom:0;
 }
 .top-cloud {
   position: absolute;
-  right:30%;
-  top:25%
+  right:400px;
+  top:50px;
 }
 .bottom-cloud {
   position:absolute;
-  left:35%
+  left:35%;
+    
 }
 .mountain {
   margin: auto;
