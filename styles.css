@@ -7,19 +7,25 @@ h1 {
   margin-top: 0;
 }
 .pro {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .container { 
   }
 .top-container {
   background-color: #c3e6fc;  
   position:relative;
+  padding-top: 100px;
+}
+.top-cloud {
+  position: absolute;
+  right:30%;
+  top:25%
 }
 .bottom-cloud {
   position:absolute;
-  
+  left:35%
 }
 .mountain {
-  margin: auto auto 0 auto;
+  margin: auto;
   
 }
