@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-  backgroung-color: #c3e6fc;  
+  
 }
 h1 {
   margin-top: 0;
@@ -12,6 +12,7 @@ h1 {
 .container { 
   }
 .top-container {
+  background-color: #c3e6fc;  
   position:relative;
 }
 .bottom-cloud {
