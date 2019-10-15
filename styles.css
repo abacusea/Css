@@ -40,6 +40,7 @@ h1 {
     margin:0;
     position:relative;
     height: 26.59em;
+    overflow: hidden;
 }
 
 .mountain1 {
